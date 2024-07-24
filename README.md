@@ -25,7 +25,7 @@ In the Exploratory Data Analysis phase, performed data quality control checks, a
 
 
 
- Rest of the results can be seen in the .ipnyb file
+ Rest of the results can be seen in the .ipynb (Python Notebook) file
 
 
 During the modeling phase, LightGBM and RNN models proved ineffective due to the small dataset size of 100 rows and 24 columns, leading to poor results. 
