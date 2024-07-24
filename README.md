@@ -8,10 +8,15 @@ This project conducts a comprehensive supply chain data analysis using dataset w
 
 In the Exploratory Data Analysis phase, performed data quality control checks, assessed supply chain risks, analyzed inventory using the Economic Order Quantity (EOQ) method, conducted customer segmentation, and examined lead times optimization. 
 
-Results of EDA, Supply Chain Risk Assessment, Cutomer Segmentation 
+# Results:
+# EDA
+!DefectRateByProductType(newplot.png)
+!Top15HighestRisk(newplot (1).png)
 
 
 
+
+ 
 
 
 However, during the modeling phase, LightGBM and RNN models proved ineffective due to the small dataset size of 100 rows and 24 columns, leading to poor results. 
