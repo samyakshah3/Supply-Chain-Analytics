@@ -9,10 +9,13 @@ This project conducts a comprehensive supply chain data analysis using dataset w
 In the Exploratory Data Analysis phase, performed data quality control checks, assessed supply chain risks, analyzed inventory using the Economic Order Quantity (EOQ) method, conducted customer segmentation, and examined lead times optimization. 
 
 # Results:
-# EDA
-![Defect Rate By Product Type](newplot.png)
 
-![Top 15 Highest Risk Products Chart](newplot (1).png)
+![EDA1](newplot.png)
+![EDA1](newplot_(1).png)
+![EDA1](newplot_(2).png)
+![EDA1](newplot_(3).png) 
+![EDA1](newplot_(4).png)
+![EDA1](newplot_(5).png)
 
 
 
