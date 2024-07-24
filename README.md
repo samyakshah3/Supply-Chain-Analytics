@@ -10,8 +10,8 @@ In the Exploratory Data Analysis phase, performed data quality control checks, a
 
 # Results:
 # EDA
-!DefectRateByProductType(newplot.png)
-!Top15HighestRisk(newplot (1).png)
+![Defect Rate By Product Type](newplot.png)
+![Top 15 Highest Risk](newplot (1).png)
 
 
 
