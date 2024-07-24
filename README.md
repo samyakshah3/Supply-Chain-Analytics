@@ -12,15 +12,15 @@ In the Exploratory Data Analysis phase, performed data quality control checks, a
 
 ![EDA1](newplot.png)
 
-![EDA1](newplot_(1).png)
+![EDA2](newplot_(1).png)
 
-![EDA1](newplot_(2).png)
+![EDA3](newplot_(2).png)
 
-![EDA1](newplot_(3).png) 
+![EDA4](newplot_(3).png)
 
-![EDA1](newplot_(4).png)
+![EDA5](newplot_(4).png)
 
-![EDA1](newplot_(5).png)
+![EDA6](newplot_(5).png)
 
 
 
